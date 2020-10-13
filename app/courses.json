@@ -1,0 +1,712 @@
+{
+    "CMPT 102" : {
+        "department" : "CMPT",
+        "courseNum" : "102",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["CMPT 120", "CMPT 128", "CMPT 130", "CMPT 166"]
+    },
+
+    "CMPT 106" : {
+        "department" : "CMPT",
+        "courseNum" : "106",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["ENSC 102", "ENSC 106", "MSE 102"]
+    },
+
+    "CMPT 110" : {
+        "department" : "CMPT",
+        "courseNum" : "110",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["ITEC 240", "ITEC 241", "ITEC 242"]
+    },
+
+    "CMPT 118" : {
+        "department" : "CMPT",
+        "courseNum" : "118",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["CMPT 200"]
+    },
+
+    "CMPT 120" : {
+        "department" : "CMPT",
+        "courseNum" : "120",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["CMPT 102", "CMPT 128", "CMPT 130", "CMPT 166"]
+    },
+
+    "CMPT 125" : {
+        "department" : "CMPT",
+        "courseNum" : "125",
+        "prereq" : ["CMPT 120"],
+        "coreq" : ["CMPT 127"],
+        "equivalent" : ["CMPT 126", "CMPT 129", "CMPT 135", "CMPT 200"]
+    },
+    "CMPT 126" : {
+        "department" : "CMPT",
+        "courseNum" : "126",
+        "prereq" : ["CMPT 120"],
+        "coreq" : [],
+        "equivalent" : ["CMPT 125", "CMPT 128", "CMPT 130", "CMPT 135"]
+    },
+
+    "CMPT 127" : {
+        "department" : "CMPT",
+        "courseNum" : "127",
+        "prereq" : ["CMPT 120"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 128" : {
+        "department" : "CMPT",
+        "courseNum" : "128",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["CMPT 102", "CMPT 120", "CMPT 130", "CMPT 166"]
+    },
+
+    "CMPT 129" : {
+        "department" : "CMPT",
+        "courseNum" : "129",
+        "prereq" : ["CMPT 120"],
+        "coreq" : [],
+        "equivalent" : ["CMPT 125", "CMPT 135"]
+    },
+
+    "CMPT 130" : {
+        "department" : "CMPT",
+        "courseNum" : "130",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["CMPT 102", "CMPT 120", "CMPT 128", "CMPT 166"]
+    },
+
+    "CMPT 135" : {
+        "department" : "CMPT",
+        "courseNum" : "135",
+        "prereq" : ["CMPT 130"],
+        "coreq" : [],
+        "equivalent" : ["CMPT 125", "CMPT 126", "CMPT 129"]
+    },
+
+    "CMPT 150" : {
+        "department" : "CMPT",
+        "courseNum" : "150",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["ENSC 150"]
+    },
+
+    "CMPT 165" : {
+        "department" : "CMPT",
+        "courseNum" : "165",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 166" : {
+        "department" : "CMPT",
+        "courseNum" : "166",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["CMPT 102", "CMPT 120", "CMPT 128", "CMPT 130"]
+    },
+
+    "CMPT 170" : {
+        "department" : "CMPT",
+        "courseNum" : "170",
+        "prereq" : ["CMPT 120"],
+        "coreq" : [],
+        "equivalent" : ["CMPT 118", "CMPT 165"]
+    },
+
+    "CMPT 213" : {
+        "department" : "CMPT",
+        "courseNum" : "213",
+        "prereq" : ["CMPT 225"],
+        "coreq" : [],
+        "equivalent" : ["CMPT 212"]
+    },
+
+    "CMPT 218" : {
+        "department" : "CMPT",
+        "courseNum" : "218",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 225" : {
+        "department" : "CMPT",
+        "courseNum" : "225",
+        "prereq" : ["MACM 101", "CMPT 125", "CMPT 127"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 250" : {
+        "department" : "CMPT",
+        "courseNum" : "250",
+        "prereq" : ["CMPT 150"],
+        "coreq" : [],
+        "equivalent" : ["ENSC 250"]
+    },
+
+    "CMPT 261" : {
+        "department" : "CMPT",
+        "courseNum" : "261",
+        "prereq" : ["MATH 232", "CMPT 125"],
+        "coreq" : [],
+        "equivalent" : ["IAT 261"]
+    },
+
+    "CMPT 275" : {
+        "department" : "CMPT",
+        "courseNum" : "275",
+        "prereq" : ["CMPT 225", "MACM 101", "MATH 150"],
+        "coreq" : [],
+        "equivalent" : ["CMPT 276"]
+    },
+
+    "CMPT 276" : {
+        "department" : "CMPT",
+        "courseNum" : "276",
+        "prereq" : ["CMPT 225", "MACM 101", "MATH 150"],
+        "coreq" : [],
+        "equivalent" : ["CMPT 275"]
+    },
+
+    "CMPT 295" : {
+        "department" : "CMPT",
+        "courseNum" : "295",
+        "prereq" : ["MACM 101", "CMPT 125", "CMPT 127"],
+        "coreq" : [],
+        "equivalent" : ["CMPT 150", "CMPT 250"]
+    },
+
+    "CMPT 300" : {
+        "department" : "CMPT",
+        "courseNum" : "300",
+        "prereq" : ["MACM 101", "CMPT 225"],
+        "coreq" : [],
+        "equivalent" : ["CMPT 150", "CMPT 250"]
+    },
+
+    "CMPT 305" : {
+        "department" : "CMPT",
+        "courseNum" : "305",
+        "prereq" : ["MACM 101", "CMPT 225", "STAT 270"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 307" : {
+        "department" : "CMPT",
+        "courseNum" : "307",
+        "prereq" : ["MACM 201", "CMPT 225", "Math 150", "MATH 232"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 308" : {
+        "department" : "CMPT",
+        "courseNum" : "308",
+        "prereq" : ["MACM 201"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 310" : {
+        "department" : "CMPT",
+        "courseNum" : "310",
+        "prereq" : ["MACM 101", "CMPT 225"],
+        "coreq" : [],
+        "equivalent" : ["CMPT 410"]
+    },
+
+    "CMPT 318" : {
+        "department" : "CMPT",
+        "courseNum" : "318",
+        "prereq" : ["CMPT 225"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 320" : {
+        "department" : "CMPT",
+        "courseNum" : "320",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 340" : {
+        "department" : "CMPT",
+        "courseNum" : "340",
+        "prereq" : ["CMPT 125"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 353" : {
+        "department" : "CMPT",
+        "courseNum" : "353",
+        "prereq" : ["CMPT 125"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 354" : {
+        "department" : "CMPT",
+        "courseNum" : "354",
+        "prereq" : ["MACM 101", "CMPT 225"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 361" : {
+        "department" : "CMPT",
+        "courseNum" : "361",
+        "prereq" : ["MATH 232", "CMPT 225"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+    "CMPT 363" : {
+        "department" : "CMPT",
+        "courseNum" : "363",
+        "prereq" : ["CMPT 225"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+    "CMPT 365" : {
+        "department" : "CMPT",
+        "courseNum" : "365",
+        "prereq" : ["CMPT 225"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 371" : {
+        "department" : "CMPT",
+        "courseNum" : "371",
+        "prereq" : ["CMPT 225", "CMPT 295", "MATH 150"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 373" : {
+        "department" : "CMPT",
+        "courseNum" : "373",
+        "prereq" : ["CMPT 276"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 376" : {
+        "department" : "CMPT",
+        "courseNum" : "376",
+        "prereq" : ["CMPT 276"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 379" : {
+        "department" : "CMPT",
+        "courseNum" : "379",
+        "prereq" : ["CMPT 225", "CMPT 295", "MACM 201"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 383" : {
+        "department" : "CMPT",
+        "courseNum" : "383",
+        "prereq" : ["CMPT 225", "MACM 101"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 384" : {
+        "department" : "CMPT",
+        "courseNum" : "384",
+        "prereq" : ["CMPT 225", "MACM 101"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 404" : {
+        "department" : "CMPT",
+        "courseNum" : "404",
+        "prereq" : ["MACM 201"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 405" : {
+        "department" : "CMPT",
+        "courseNum" : "405",
+        "prereq" : ["CMPT 307"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 406" : {
+        "department" : "CMPT",
+        "courseNum" : "406",
+        "prereq" : ["CMPT 307"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 407" : {
+        "department" : "CMPT",
+        "courseNum" : "407",
+        "prereq" : ["CMPT 307"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 408" : {
+        "department" : "CMPT",
+        "courseNum" : "408",
+        "prereq" : ["CMPT 307", "CMPT 371"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 409" : {
+        "department" : "CMPT",
+        "courseNum" : "409",
+        "prereq" : ["CMPT 307"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 411" : {
+        "department" : "CMPT",
+        "courseNum" : "411",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 412" : {
+        "department" : "CMPT",
+        "courseNum" : "412",
+        "prereq" : ["MATH 152"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 413" : {
+        "department" : "CMPT",
+        "courseNum" : "413",
+        "prereq" : ["MATH 152"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 414" : {
+        "department" : "CMPT",
+        "courseNum" : "414",
+        "prereq" : ["MATH 152"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 415" : {
+        "department" : "CMPT",
+        "courseNum" : "415",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 416" : {
+        "department" : "CMPT",
+        "courseNum" : "416",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 417" : {
+        "department" : "CMPT",
+        "courseNum" : "417",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 419" : {
+        "department" : "CMPT",
+        "courseNum" : "419",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 431" : {
+        "department" : "CMPT",
+        "courseNum" : "431",
+        "prereq" : ["CMPT 300", "CMPT 371"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 433" : {
+        "department" : "CMPT",
+        "courseNum" : "433",
+        "prereq" : ["CMPT 300", "CMPT 295"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 441" : {
+        "department" : "CMPT",
+        "courseNum" : "441",
+        "prereq" : ["CMPT 307"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 454" : {
+        "department" : "CMPT",
+        "courseNum" : "454",
+        "prereq" : ["CMPT 300", "CMPT 354"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 456" : {
+        "department" : "CMPT",
+        "courseNum" : "456",
+        "prereq" : ["CMPT 354"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 459" : {
+        "department" : "CMPT",
+        "courseNum" : "459",
+        "prereq" : ["CMPT 354"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 461" : {
+        "department" : "CMPT",
+        "courseNum" : "461",
+        "prereq" : ["CMPT 361", "MACM 201", "MACM 316"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 464" : {
+        "department" : "CMPT",
+        "courseNum" : "464",
+        "prereq" : ["CMPT 361", "MACM 316"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 466" : {
+        "department" : "CMPT",
+        "courseNum" : "466",
+        "prereq" : ["CMPT 361", "MACM 316"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 469" : {
+        "department" : "CMPT",
+        "courseNum" : "466",
+        "prereq" : ["CMPT 361"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 470" : {
+        "department" : "CMPT",
+        "courseNum" : "470",
+        "prereq" : ["CMPT 276", "CMPT 354"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 471" : {
+        "department" : "CMPT",
+        "courseNum" : "471",
+        "prereq" : ["CMPT 300", "CMPT 371"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 473" : {
+        "department" : "CMPT",
+        "courseNum" : "473",
+        "prereq" : ["CMPT 276"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 474" : {
+        "department" : "CMPT",
+        "courseNum" : "474",
+        "prereq" : ["CMPT 371"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 475" : {
+        "department" : "CMPT",
+        "courseNum" : "475",
+        "prereq" : ["CMPT 276", "MACM 201"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+
+    "CMPT 477" : {
+        "department" : "CMPT",
+        "courseNum" : "477",
+        "prereq" : ["CMPT 276"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 479" : {
+        "department" : "CMPT",
+        "courseNum" : "479",
+        "prereq" : ["CMPT 300"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 489" : {
+        "department" : "CMPT",
+        "courseNum" : "489",
+        "prereq" : ["CMPT 383"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 496" : {
+        "department" : "CMPT",
+        "courseNum" : "496",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "CMPT 497" : {
+        "department" : "CMPT",
+        "courseNum" : "497",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+    },    
+
+    "CMPT 498" : {
+        "department" : "CMPT",
+        "courseNum" : "498",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+    },    
+
+    "CMPT 499" : {
+        "department" : "CMPT",
+        "courseNum" : "499",
+        "prereq" : ["CMPT 250"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "MACM 101" : {
+        "department" : "MACM",
+        "courseNum" : "101",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["ENSC 251", "ENSC 252"]
+    },
+
+    "MACM 201" : {
+        "department" : "MACM",
+        "courseNum" : "201",
+        "prereq" : ["MACM 101"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "MACM 316" : {
+        "department" : "MACM",
+        "courseNum" : "316",
+        "prereq" : ["MATH 152", "MATH 232"],
+        "coreq" : [],
+        "equivalent" : []
+    },
+
+    "MATH 151" : {
+        "department" : "MATH",
+        "courseNum" : "151",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["MATH 150", "MATH 154", "MATH 157"]
+    },
+
+    "MATH 150" : {
+        "department" : "MATH",
+        "courseNum" : "150",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["MATH 151", "MATH 154", "MATH 157"]
+    },
+
+    "MATH 154" : {
+        "department" : "MATH",
+        "courseNum" : "154",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["MATH 150", "MATH 151", "MATH 157"]
+    },
+
+    "MATH 157" : {
+        "department" : "MATH",
+        "courseNum" : "157",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["MATH 150", "MATH 151", "MATH 154"]
+    },
+
+    "MATH 152" : {
+        "department" : "MATH",
+        "courseNum" : "152",
+        "prereq" : ["MATH 151"],
+        "coreq" : [],
+        "equivalent" : ["MATH 155", "MATH 158"]
+    },
+
+    "MATH 232" : {
+        "department" : "MATH",
+        "courseNum" : "232",
+        "prereq" : ["MATH 151"],
+        "coreq" : [],
+        "equivalent" : ["MATH 240"]
+    },
+
+    "MATH 240" : {
+        "department" : "MATH",
+        "courseNum" : "240",
+        "prereq" : ["MATH 151"],
+        "coreq" : [],
+        "equivalent" : ["MATH 232"]
+    }
+
+}

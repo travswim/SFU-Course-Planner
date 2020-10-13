@@ -1,0 +1,28 @@
+{
+    "title": "Introduction to Computing Science and Programming II",
+    "description": "A rigorous introduction to computing science and computer programming,
+    suitable for students who already have some background in computing science and programming. 
+    Intended for students who will major in computing science or a related program. Topics include: 
+    fundamental algorithms; elements of empirical and theoretical algorithmics; abstract data types 
+    and elementary data structures; basic object-oriented programming and software design; 
+    computation and computability; specification and program correctness; and history of computing science. 
+    Prerequisite: CMPT120. Co-requisite: CMPT127. Students with credit for CMPT 126, 
+    128, 135 or CMPT 200 or higher may not take for further credit. Quantitative.", 
+    "corequisites": "",
+    "prerequisites": "Prerequisite: CMPT120. Co-requisite: CMPT127.  ",
+    "number": "125",
+    "notes": "Students with credit for CMPT 126, 128, 135 or CMPT 200 or higher may not take for further credit.",
+    "units": "3",
+    "designation": "Quantitative",
+    "recommended": "",
+    "sections": [
+        {
+            "number": "D100",
+            "value": "d100",
+            "classStatus": "a",
+            "classType": "lecture",
+            "sectionCode": "LEC",
+            "associatedClass": "1"
+        }
+    ]
+}

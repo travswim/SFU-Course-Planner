@@ -1,0 +1,68 @@
+[
+    {
+        "course": "CMPT 102",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["CMPT 120", "CMPT 128", "CMPT 130", "CMPT 166"]
+
+    },
+    {
+        "course": "CMPT 106",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["ENSC 102", "ENSC 106", "MSE 102"]
+
+    },
+    {
+        "course": "CMPT 106",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["ENSC 102", "ENSC 106", "MSE 102"]
+
+    },
+    {
+        "course": "CMPT 118",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : []
+
+    },
+    {
+        "course": "CMPT 120",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["CMPT 102", "CMPT 128", "CMPT 130", "CMPT 166"]
+
+    },
+    {
+        "course": "CMPT 125",
+        "prereq" : ["CMPT 120"],
+        "coreq" : ["CMPT 127"],
+        "equivalent" : ["CMPT 126", "CMPT 129", "CMPT 135", "CMPT 200"]
+
+    },
+    {
+        "course": "CMPT 126",
+        "prereq" : ["CMPT 120"],
+        "coreq" : [],
+        "equivalent" : ["CMPT 125", "CMPT 128", "CMPT 130", "CMPT 135"]
+
+    },
+    {
+        "course": "CMPT 128",
+        "prereq" : [],
+        "coreq" : [],
+        "equivalent" : ["CMPT 102", "CMPT 120", "CMPT 130", "CMPT 166"]
+
+    },
+    {
+        "course": "CMPT 383",
+        "prereq" : [
+            ["CMPT 225", "MACM 101"],
+            ["CMPT 225", "ENSC 251", "ENSC 252"]
+        ],
+        "coreq" : [],
+        "equivalent" : []
+
+    }
+]
