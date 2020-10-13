@@ -1,4 +1,4 @@
-# CMPT 383 Project
+# SFU Course Planner
 
 **Author**: Travis Booth <br>
 **Course**: CMPT 383 - SFU <br>
